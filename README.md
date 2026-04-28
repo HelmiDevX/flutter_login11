@@ -8,9 +8,7 @@
 
 | Login Screen | Home Dashboard |
 |---|---|
-| ![Login Screen](./screenshots/login.png) | ![Home Dashboard](./screenshots/home.png) |
-
----
+| <img src="screenshots/login.png" width="250"> | <img src="screenshots/home.png" width="250"> |
 
 ## ✨ المميزات (Features)
 * 🎨 **تصميم عصري:** خلفية متدرجة جذابة مع حقول إدخال شبه شفافة.
