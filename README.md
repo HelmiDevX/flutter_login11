@@ -8,7 +8,7 @@
 
 | Login Screen | Home Dashboard |
 |---|---|
-| <img src="screenshots/login.png.jpg" width="250"> | <img src="screenshots/home.png.jpg" width="250"> |
+| <img src="screenshots/login.png.jpg" > | <img src="screenshots/home.png.jpg"> |
 
 ## ✨ المميزات (Features)
 .
